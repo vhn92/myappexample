@@ -3,4 +3,5 @@ public class DemoJavaApp{
 	public DemoJavaApp(int size){
 		tab = new int[size];
 	}
+	System.out.println("OK");
 }
