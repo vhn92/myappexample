@@ -4,4 +4,5 @@ public class DemoJavaApp{
 		tab = new int[size];
 	}
 	System.out.println("OK");
+	System.out.println("OK2");
 }
